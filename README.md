@@ -26,3 +26,20 @@ Notice that because of the time stamp associated with each event, you could tech
 However, then the hard question is do you stop as soon as one page is considered significantly better than another or does it need to happen consistently for a certain amount of time? How long do you run to render a decision that neither page is better than another?
 
 These questions are the difficult parts associated with A/B tests in general.
+
+
+# Results:
+
+    After analyzing the dataset for e-commerce website it seems that our Null hypothesis is correct.
+    From probability we can conclude that:
+    Conversion for control group is higher.
+    The control group does better but with a small margin.
+    From histogram we can see that null hypothesis is true as old and new pages perform almost similarly.
+    We have also seen that country alone has little impact on the conversion.
+    The test conditions were fairly good as well, because user had a equal chance to receive old and new pages.
+    An interaction between page and country has significant effects on conversion.
+
+
+# Conclusion:
+
+I recommend the e-commerce website company to keep the "old pages" for now $\&amp;$ spend time to improve the new pages before they go for another experiment and then finalize the decision.
