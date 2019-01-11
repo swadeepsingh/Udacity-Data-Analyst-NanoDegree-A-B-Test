@@ -23,6 +23,8 @@ For this project, you will be working to understand the results of an A/B test r
 
 Notice that because of the time stamp associated with each event, you could technically run a hypothesis test continuously as each observation was observed.
 
+![alt](https://github.com/swadeepsingh/Udacity-Data-Analyst-NanoDegree-A-B-Test/blob/master/hypothesis.PNG)
+
 However, then the hard question is do you stop as soon as one page is considered significantly better than another or does it need to happen consistently for a certain amount of time? How long do you run to render a decision that neither page is better than another?
 
 These questions are the difficult parts associated with A/B tests in general.
